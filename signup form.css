@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://image.freepik.com/free-photo/group-business-people-having-meeting_53876-14814.jpg");
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+    padding: 15px;
+}
+
+.sign-heading {
+    color: #4034eb;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.side-heading {
+    color: #e8eb34;
+    font-family: "roboto";
+    font-size: 17px;
+}
+
+.unordered-list-styling {
+    background-color: #ffffff;
+    list-style-type: none;
+
+
+}
+
+.save-button {
+    color: white;
+    background-color: #4c63b6;
+    border-width: 0;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.user-input {
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.add-button {
+    color: white;
+    background-color: #4c63b6;
+    border-width: 0;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.skill-container {
+    margin-top: 5px;
+
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    padding: 10px;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.checkbox-label {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 82%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.delete-icon-container {
+    text-align: right;
+    width: 18%;
+}
+
+.delete-icon {
+    padding: 10px;
+}
+
+.new-container {
+    background-color: #32a852;
+    height: 100vh;
+}
